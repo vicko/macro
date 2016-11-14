@@ -3,7 +3,7 @@
 		<div class="container">
 				<div class="languages-area">
 					<?php if((!function_exists('dynamic_sidebar') || !dynamic_sidebar('languages-sidebar'))): ?>
-						<div class="languages">
+						<!-- div class="languages">
 							<ul class="links">
 								<li class="active">EN</li>
 								<li><a href="#">FR</a></li>
@@ -16,7 +16,7 @@
 								<li><a href="#">€</a></li>
 								<li class='active'>$</li>
 							</ul>
-						</div>
+						</div-->
 					<?php endif; ?>	
 				</div>
 
