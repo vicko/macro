@@ -1,0 +1,11 @@
+/*
+Theme Name: Woopress Child
+Theme URI: http://macromercado.com.uy
+Description: Child Theme para la plantilla Woopress
+Author: Victoria Parodi
+Author URI:
+Template: woopress
+Version: 1.0.0
+Tags: etiqueta1, etiqueta2, etiqueta3...
+*/
+@import url("../woopress/style.css");
